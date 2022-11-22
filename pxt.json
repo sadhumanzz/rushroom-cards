@@ -1,0 +1,41 @@
+{
+    "name": "rushroom cards",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.11.37",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "palette": [
+        "#000000",
+        "#662959",
+        "#a56368",
+        "#f0ebd8",
+        "#bfb1a2",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000"
+    ]
+}
